@@ -1,0 +1,35 @@
+name: elismatiQ
+analytics: {}
+github: true
+description: Improving online business though digital intelligence
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.1007682380732149
+color:
+  lightness: 0.5674370030331046
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  saturation: 0.6811721163525181
+  brandStrength: 0.3521235427707721
+  rhythmicContrast: 0.6191446270372589
+content_rating:
+  adult: false
+typography_spectrum: 0.7042682089377195
+opengraph: {}
+title: elismatiQ
